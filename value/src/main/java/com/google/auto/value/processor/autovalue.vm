@@ -105,6 +105,14 @@ final class $subclass$formalTypes extends $origClass$actualTypes {
     private $p.type builderValue_$p;
 #end
 
+#foreach ($p in $props)
+
+    ${p.access} void ${p.name}(${p.type} $p) {
+      this.builderValue_$p = $p;
+    }
+
+#end
+
     public $origClass$actualTypes build() {
       ## Constructor
 
