@@ -9,7 +9,7 @@
   <groupId>com.google.auto.value</groupId>
   <artifactId>auto-value</artifactId>
   <name>AutoValue</name>
-  <version>1.0-babsher</version>
+  <version>1.0-babsher-SNAPSHOT</version>
   <description>Immutable value-type code generation for Java 1.6+.</description>
   <scm>
     <connection>scm:git:git://github.com/google/auto.git</connection>
