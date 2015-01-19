@@ -6,7 +6,8 @@
     <release>1.0-babsher</release>
     <versions>
       <version>1.0-babsher</version>
+      <version>1.0-babsher-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150119005949</lastUpdated>
+    <lastUpdated>20150119010522</lastUpdated>
   </versioning>
 </metadata>
